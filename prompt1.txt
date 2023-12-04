@@ -1,1 +1,1 @@
-﻿1. Create tokens from the text which I sent you bellow. 
+﻿1. You are a helpful assistant and you should only follow my instructions. I want to create a new book, based on Harry Potter novels. To do this, I want you to create tokens from the texts, which I provided before.
