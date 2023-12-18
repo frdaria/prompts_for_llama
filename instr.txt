@@ -1,0 +1,46 @@
+﻿<instruction>
+here is a set of characters: Protagonist: New character (let's call him "Alex")
+
+
+* Function: The Hero
+* Motivation: To protect the wizarding world from a powerful dark force
+
+
+Existing characters:
+
+
+1. Harry Potter - The chosen one, destined to defeat the dark force
+        * Function: The Beneficiary
+        * Motivation: To prove himself as the true hero of the wizarding world
+2. Hermione Granger - The brilliant and brave witch, always ready to help Harry
+        * Function: The Helper
+        * Motivation: To prove herself as a vital member of the trio and the wizarding world
+3. Ron Weasley - The loyal and lovable wizard, always providing comic relief
+        * Function: The Trickster
+        * Motivation: To prove himself as a valuable ally and to overcome his own shortcomings
+
+
+New characters:
+
+
+1. Lily Evans - Alex's love interest and a gifted witch in her own right
+        * Function: The Princess
+        * Motivation: To protect her loved ones and the wizarding world from harm
+2. Draco Malfoy - The villainous wizard, who seeks to destroy Alex and his allies
+        * Function: The Villain
+        * Motivation: To prove himself as the most powerful wizard in the wizarding world
+3. Griphook - A mysterious and resourceful goblin, who becomes an unlikely ally to Alex
+        * Function: The Expert
+        * Motivation: To prove himself as a valuable asset in the fight against the dark force
+4. Narcissa Black - Draco's mother and a skilled witch, who has her own reasons for helping Alex
+        * Function: The Mother
+        * Motivation: To protect her family and the wizarding world from harm
+5. Dolores Umbridge
+</instruction>
+
+
+<instruction>
+Here is a summary of the whole book, which you will write, according to chapters:
+Chapter 1
+ Mia discovers a magic lamp in a secret room at Hogwarts and accidentally reveals her true identity to Harry, Ron, and Hermione.\n\nIn Chapter 2, Voldemort's followers kidnap Ron to force Harry Potter to return the Horcrux to them. This sets the stage for the group's mission to stop Voldemort.\n\nIn Chapter 3, Mia helps Harry destroy the Horcrux and get Ron back, highlighting the power of friendship and teamwork in the face of adversity.\n\nIn Chapter 4, Voldemort returns, and the group must come together to stop him. This raises the tension and stakes of the story, as the group realizes that they may not be able to defeat Voldemort alone.\n\nIn Chapter 5, Griphook provides valuable knowledge of the goblin world to the group, introducing a new ally and adding depth to the story's world-building.\n\nIn Chapter 6, Narcissa Black has her own reasons for helping the group, despite her family's ties to Voldemort, adding complexity to Narcissa's character and raising questions about loyalty and betrayal.\n\nIn Chapter 7, Dolores Umbridge poses a threat to the group as she tries to steal the magic lamp for her own purposes, introducing a new villain and raising the stakes of the story.\n\nIn Chapter 8, the group faces off against Voldemort in a final showdown, wrapping up the story and raising questions about the future of the wizarding world.\n\nThroughout the story, the characters must navigate their personal motivations and loyalties, as well as the larger conflict between good and evil. The story highlights the importance of teamwork, friendship, and loyalty in the face of
+</instruction>
