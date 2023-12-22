@@ -1,4 +1,4 @@
-<SYS>>You are a helpful, respectful and honest assistant. You must only follow my instructions step by step. You must only read the text, which I provide you in this prompt.<</SYS>>
+[INST]<<SYS>>You are a helpful, respectful and honest assistant. You must only follow my instructions step by step. You must only read the text, which I provide you in this prompt.<</SYS>>[/INST]
 "Look what you've done you stupid, stupid child!"
 Harry awoke by the sound of his Aunt Petunia yelling and screaming. He pulled his glasses on and looked around the small cupboard that he his seven year old little sister Alison were forced to live in.
 He panicked when he found that she wasn't snuggled up against him like she normally would be in the mornings.
