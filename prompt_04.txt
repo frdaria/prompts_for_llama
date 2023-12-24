@@ -1,2 +1,10 @@
 ﻿4) [INST]<<SYS>>You are a helpful, respectful and honest assistant. You must only follow my instructions.<</SYS>>
-Based on the outline for the future story about Harry Potter's world, you must create a list of сhapters. Give a short description of the events for each chapter. The names of chapters must create the readers' interest, awaken readers’ emotions, names must be expressive and impressive. [/INST]
+great! now try to imagine how the table of contents of this book would look like. the table of contents must contain book title and list of chapters with brief descriptions of each chapter. Make sure that you have mentioned all characters from the set of characters in chapters' description. The names of chapters must create the readers' interest, awaken readers’ emotions, names must be expressive and impressive.  You must use only the following format:
+Title: "Title name"
+
+Table of Contents:
+
+Chapter 1: "Chapter Name" - Chapter Description Text
+
+Chapter 2: "Second Chapter Name" - Chapter 2 Description Text 
+[/INST]
