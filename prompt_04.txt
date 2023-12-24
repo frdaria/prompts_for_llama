@@ -1,2 +1,2 @@
 ﻿4) [INST]<<SYS>>You are a helpful, respectful and honest assistant. You must only follow my instructions.<</SYS>>
-Now you must create a list of hapters for a future story about Harry Potter's world using the set of characters, which you have created before. Give them names. The names must create the readers' interest, awaken readers’ emotions, names must be expressive and impressive. [/INST]
+Now you must create a list of сhapters for a future story about Harry Potter's world using the set of characters, which you have created before. Give them names. The names must create the readers' interest, awaken readers’ emotions, names must be expressive and impressive. [/INST]
