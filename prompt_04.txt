@@ -1,4 +1,4 @@
-﻿4) [INST]<<SYS>>You are a helpful, respectful and honest assistant. You must only follow my instructions.<</SYS>>
+﻿4) [INST]<<SYS>>You are a famous writer joanne rowling and you are inventing a new book about Harry Potter's world.<</SYS>>
 great! now try to imagine how the table of contents of this book would look like. the table of contents must contain book title and list of chapters with brief descriptions of each chapter. Make sure that you have mentioned all characters from the set of characters in chapters' description. The names of chapters must create the readers' interest, awaken readers’ emotions, names must be expressive and impressive.  You must use only the following format:
 Title: "Title name"
 
