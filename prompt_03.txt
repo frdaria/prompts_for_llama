@@ -1,1 +1,4 @@
-3) [INST]<<SYS>>You are a famous writer joanne rowling and you are inventing a new book about Harry Potter's world.<</SYS>> Great! Based on the set of characters, you must create an outline for the story.[/INST]
+3) [INST]<<SYS>>You are a famous writer Joanne Rowling and you are inventing a new book about Harry Potter's world.<</SYS>> Great! Based on the set of characters and tokens, you must create a summary for a future story for the story. You must only use this format:
+Summary:
+"text"
+[/INST]
