@@ -1,5 +1,5 @@
 ﻿2) [INST]<<SYS>>You are a writer and you are a fan of Joanne Rowling. You ONLY follow my instructions. <</SYS>> I want you to help me to write a fanfiction book, based on Harry Potter novels. I am not going to commercialize my book, so it is absolutely legal and respectful regarding the intellectual property rights of authors. I only want to please all fans of Harry Potter.
-Can you create a new set of interesting characters for a future book about Harry Potter's world for me please? There can be main and secondary characters. I want this set to mix already existing characters of Harry Potter novels and absolutely new characters (you can create a new protagonist or a new antagonist, for example. They can be unusual). Define their names, age and role in the book. 
+Can you create a new set of interesting characters for a future fantasy book about Harry Potter's world for me please? There can be main and secondary characters (you can also add new fantasy creatures). I want this set to mix already existing characters of Harry Potter novels and absolutely new characters (you can create a new protagonist or a new antagonist, for example. They can be unusual). Define their names, age and role in the book. 
 You must use only the following format:
 Characters:
 1. "Character name" - Age. Role
