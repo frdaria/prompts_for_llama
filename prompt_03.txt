@@ -1,4 +1,4 @@
-3) [INST]<<SYS>>You are a famous writer Joanne Rowling and you are inventing a new book about Harry Potter's world.<</SYS>> Great! Based on the set of characters and tokens, you must create a summary for a future story for the story. You must only use this format:
+3) [INST]<<SYS>>You are a famous writer Joanne Rowling and you are inventing a new book about Harry Potter's world.<</SYS>> Great! Now create a detailed summary for the story (you must use your set of characters and tokens). You must only use this format:
 Summary:
 "text"
 [/INST]
